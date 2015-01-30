@@ -6,7 +6,7 @@ Updated minimally sized Debian Jessie build.
 
 If you just want to use this image, pull it and configure what you want:
 
-    docker pull monsantoco/min-jessie
+    # docker pull monsantoco/min-jessie
 
 To use this image in your own project, use this FROM line in your Dockerfile:
 
@@ -114,3 +114,12 @@ Now we can see that the image is smaller.
     debian                 8.0     0e30e84e9513  3 days ago      122.8 MB
     debian                 jessie  0e30e84e9513  3 days ago      122.8 MB
     debian                 8       0e30e84e9513  3 days ago      122.8 MB
+
+# Copyright
+
+Copyright (c) 2015, Monsanto Company
+
+# License
+
+This code is released under the modified BSD 3-clause license.  See LICENSE
+file for details.
