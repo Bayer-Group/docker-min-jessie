@@ -100,7 +100,7 @@ above.
 ## Squash Image
 
 We squash the image using
-[docker-squahs](https://github.com/jwilder/docker-squash).  You will need to
+[docker-squash](https://github.com/jwilder/docker-squash).  You will need to
 install that tool for this step.  Use the IMAGE_ID for your image from the
 previous step.
 
@@ -121,5 +121,5 @@ Copyright (c) 2015, Monsanto Company
 
 # License
 
-This code is released under the modified BSD 3-clause license.  See LICENSE
+This code is released under the modified BSD 3-clause license.  See [LICENSE](LICENSE)
 file for details.
